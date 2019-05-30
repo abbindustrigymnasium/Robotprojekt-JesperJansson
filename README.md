@@ -3,5 +3,6 @@
 Robotstyrning.ino  -  All arduinokod
 Tillståndsgraf-robotstyrning.vsd  -  Tillståndsgraf för roboten
 Robotvideo_medium.mp4 - Videon om roboten
+kopplingstabell.docx - Alla kopplingar för roboten
 
-I mappen Cad-filer kommer alla SolidWorksfiler läggas upp tills på fredag
+I mappen Cad-filer finns alla SolidWorksfiler
